@@ -6,6 +6,7 @@ public class Demo {
 		System.out.println("Hello Sandy");
         for(int i=0; i<10;i++){
 System.out.println(i+" ");
+}
 
 	}
 
